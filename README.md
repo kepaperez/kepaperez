@@ -1,11 +1,11 @@
-### HEY visitor :wave:
+### Hola visitante! :wave:
 
-I am a full stack developer who is interested in new App Ideas and Machine Learning as well as Data Science. Also in every new technology that is making our lives easier!
-- 🔭 I’m currently working on Social Media Reporting Tool 
-- 🌱 I’m currently learning React JS/Native and Python
-- 👯 I’m looking to collaborate on a tech project integrating AI and Machine Learning
+Soy un desarrollador Full Stack que está interesado en nuevas ideas de aplicaciones y aprendizaje automático, así como en ciencia de datos. También en nuevas tecnologías que nos hacen la vida más fácil.
+- 🔭 Actualmente estoy trabajando en una herramienta de informes de redes sociales 
+- 🌱 Actualmente estoy aprendiendo React JS/Native and Python
+- 👯 Estoy buscando colaborar en un proyecto tecnológico que integre IA y Machine Learning
 
- Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/kepa-perez/)](https://www.linkedin.com/in/kepa-perez)
+ Ponte en contacto conmigo en :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/kepa-perez/)](https://www.linkedin.com/in/kepa-perez)
 
 
 
