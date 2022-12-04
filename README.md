@@ -1,7 +1,7 @@
 ### Hola visitante! :wave:
 
 Soy un desarrollador Full Stack que está interesado en nuevas ideas de aplicaciones y aprendizaje automático, así como en ciencia de datos. También en nuevas tecnologías que nos hacen la vida más fácil.
-- 🔭 Actualmente estoy trabajando en una herramienta de informes de redes sociales 
+- 🔭 Actualmente estoy trabajando en una herramienta de informes de redes sociales y Apps
 - 🌱 Actualmente estoy aprendiendo Node.js y React
 - 👯 Estoy buscando colaborar en un proyecto tecnológico que integre IA y Machine Learning
 
