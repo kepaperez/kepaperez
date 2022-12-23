@@ -1,9 +1,9 @@
 ### Hola visitante! :wave:
 
 Soy un Desarrollador Full Stack que está interesado en nuevas ideas de aplicaciones y aprendizaje automático, así como en ciencia de datos. También en nuevas tecnologías que nos hacen la vida más fácil.
-- 🔭 Actualmente estoy trabajando en una herramienta de informes de redes sociales y Apps
-- 🌱 Actualmente estoy aprendiendo Node.js y React
-- 👯 Estoy buscando colaborar en un proyecto tecnológico que integre IA y Machine Learning
+- ⚙ Actualmente estoy trabajando en una herramienta de informes de redes sociales y Apps
+- 🧠 Actualmente estoy aprendiendo Node.js y React
+- 🎇 Estoy buscando colaborar en un proyecto tecnológico que integre IA y Machine Learning
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
