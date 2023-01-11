@@ -16,7 +16,7 @@ Soy un Desarrollador Full Stack que está interesado en nuevas ideas de aplicaci
 
 
 
- Ponte en contacto conmigo en :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/kepa-perez/)](https://www.linkedin.com/in/kepa-perez)
+ Ponte en contacto conmigo en :point_right: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kepa-perez)
 
 
 
